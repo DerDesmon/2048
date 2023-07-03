@@ -28,6 +28,6 @@ This process will be done with all tiles of a row or column for every row and co
 
 In order for the game to know when the game is over a variable is used. At the beginning of a move (if the grid contains no empty files) that is initiated by pressing one of the keys, the variable is set to false. If a tile is moved or merged, the variable will be set to true. This will be done for the other directions without impacting the game board. If the variable is still set to false after trying out all directions, the game is over.
 
-## GUI
+## 5. GUI
 Since we did not learn how to design GUIs in our class, I used some GUI templates.
 Software diagrams will be added later.
