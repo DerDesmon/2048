@@ -30,4 +30,3 @@ In order for the game to know when the game is over a variable is used. At the b
 
 ## 5. GUI
 Since we did not learn how to design GUIs in our class, I used some GUI templates.
-Software diagrams will be added later.
